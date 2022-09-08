@@ -1,0 +1,3 @@
+# Hierarchical Clustering of Images with Python
+
+With this code, I applied hierarchical clustering, an unsupervised machine learning method, to images with Python, going through the machine learning steps in computer vision. You can access my Medium blog page [here](https://medium.com/@dnemutlu/hierarchical-clustering-of-images-with-python-f99e92855069) for a detailed explanation of the application.
